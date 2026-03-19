@@ -1,3 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/04/film-reign-of-chaos-2022-lk21-d21.jpg", Reign of Chaos (2022)
 https://gdriveplayer.to/hlsnew2.php?s=UGJtZWRFWmloR08wbEJsNFhESy91MW8zdWVpcWtzWWtHWExhWStwa0htYz0=&type=360&id=RDdzS2N4eEhmUjhCNHZqTExERklOOGZ0Z2xzWmgvRnI3Y1c1Tk5XbkJiZGp3K1NJVDE2MjZUWWdJdkpCc0xvVw==.m3u8&name=file.m3u8
+
+(function (xhr) {
+  var XHR = XMLHttpRequest.prototype
+  var open = XHR.open
+  XHR.open = function (method, url) {
+    this._method = method
+    this._url = url
+    if ((arguments[0] == "GET") && ((arguments[1].indexOf(".mp4") > 0) || (arguments[1].indexOf(".m3u8") > 0)))
+      console.log("open: url:", url)
+    return open.apply(this, arguments)
+  }
+})(XMLHttpRequest)
+
+
+==============================
+
+(() => {
+  const XHR = XMLHttpRequest.prototype;
+  const open = XHR.open;
+  let done = false;
+  XHR.open = function (...args) {
+    const [method, url] = args;
+    this._method = method;
+    this._url = url;
+    if (
+      done === false &&
+      method === 'GET' &&
+      ['.mp4', '.m3u8'].some(type => new URL(url).pathname.endsWith(type))
+    ) {
+      done = true;
+      const playlist = [
+        '#EXTM3U',
+        `#EXTVLCOPT:http-referrer=${location.toString()}`,
+        '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0',
+        url,
+      ].join('\n');
+      const link = document.createElement('a');
+      link.setAttribute('download', 'playlist.m3u8');
+      link.setAttribute('href', `data:application/vnd.apple.mpegurl;base64,${btoa(playlist)}`);
+      link.click();
+    }
+    return open.apply(this, args);
+  };
+})();
+
+
+=================================
+
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://somesketchysisterwebsiteofgivemesketchystream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://givemesomesketchystream.website/hls/tsn/playlist.m3u8
