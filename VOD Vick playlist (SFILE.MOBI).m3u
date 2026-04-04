@@ -2112,52 +2112,14 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg" group-title="1.BIOSKOP", Guardians 1
+https://bit.ly/4vckF6S
 
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 1
-https://www.dropbox.com/scl/fi/eo39lgz56m0ryv2bri5w9/Avatar-The-Last-Airbender-E01.mp4?rlkey=agux2jyabwcr91bk8i6il9l9f&st=1c7clnuq&dl=1
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="1.BIOSKOP", Guardians 2
+https://bit.ly/4cc7qdP
 
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 2
-https://www.dropbox.com/scl/fi/zylzf3y2xmfxj549b3mn7/Lk21.De-Avatar_-The-Last-Airbender-Season-1-Episode-2-2024-1080p.mp4?rlkey=7dw6zljmyzdauec4fipy6gq61&st=rw3mgd6z&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 3
-https://www.dropbox.com/scl/fi/ltgogovhtckm1b14wr8fe/Avatar-The-Last-Airbender-3.mp4?rlkey=oe8hlozv9qjgvs5vl6rqt50k5&st=6rwgwphj&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 4
-https://www.dropbox.com/scl/fi/u3zdgb1krbe4ljpsicw76/Avatar-The-Last-Airbender-4.mp4?rlkey=7thlpqk5hb8zr6o30awrm84tj&st=h21lc3gw&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 5
-https://www.dropbox.com/scl/fi/btqis5okqezrovyhl5app/Avatar-The-Last-Airbender-5.mp4?rlkey=30t6cthmffh7nb7ijqrvcay0h&st=18zpyrwg&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP ", Avatar-The-Last-Airbender 6
-https://www.dropbox.com/scl/fi/6bk9006xvlzo8rsmdy6ux/Avatar-The-Last-Airbender-6.mp4?rlkey=pk4pbc0li6fbn7mkf0pz8s9sn&st=y0bf2q0a&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 7
-https://www.dropbox.com/scl/fi/2zu6fy21ti3koaqfdnbxc/Avatar-The-Last-Airbender-7.mp4?rlkey=xutj5qwvibeviyu6dgw7u3fs0&st=e4izsrf1&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 8
-https://www.dropbox.com/scl/fi/cncgy5c2zyukrc8hj0nh6/Avatar-The-Last-Airbender-8.mp4?rlkey=hgjrxleylkzcveikhfm5wr6m3&st=2xwbz7uo&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-ace-ventura-pet-detective-1994.jpg", Ace Ventura 1
-https://bit.ly/4copEK5
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-ace-ventura-when-nature-calls-1995.jpg", Ace Ventura 2
-https://bit.ly/4c3Gqgm
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-dumb-and-dumber-to-2014.jpg", Dumb and Dumber
-https://bit.ly/4c8ExPA
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-the-cable-guy-1996.jpg", The Cable Guy
-https://bit.ly/4vbCov9
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-bruce-almighty-2003.jpg", Bruce Almighty
-https://bit.ly/3PQ8Q6b
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
-https://bit.ly/41IRGtM
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
-https://bit.ly/4c7IpQY
-
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="1.BIOSKOP", Guardians 3
+https://bit.ly/4dv1lLF
 
 =====================================================================
 
