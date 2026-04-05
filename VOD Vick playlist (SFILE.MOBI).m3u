@@ -1,4 +1,153 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP"  tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
+http://abf.filmbluray.id/1ku88hr
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/08/film-van-helsing-2004-2-lk21.jpg"group-title="1.BIOSKOP" ,Van Helsing  SUB INDO
+http://abf.filmbluray.id/a0tcldv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="1.BIOSKOP" , Mercy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , Fall Guy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="1.BIOSKOP" , The Legend of Tarzan
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/04/film-mortal-kombat-2021-lk21.jpg" group-title="1.BIOSKOP" , Mortal Kombat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , Hellboy: The Crooked Man
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , A Mad Max Saga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="1.BIOSKOP" , Mad Max Fury Road
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-kimi-2022-lk21-d21.jpg" group-title="1.BIOSKOP" ,Kimi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=89f53fae-0da1-4f9c-9365-8135b3680c8c
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=89f53fae-0da1-4f9c-9365-8135b3680c8c&sub=t40
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="1.BIOSKOP" , Pan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-blade-ii-2002.jpg" group-title="1.BIOSKOP" , Blade II
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="1.BIOSKOP" , Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/3WUQz/mqYnUd5s8cjZY1p7g.jpeg" group-title="1.BIOSKOP" , Oblivion
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bcecca31-e728-4439-86db-94a478409d97
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/10/film-venom2018-lk21.jpg" group-title="1.BIOSKOP" , Venom 1
+http://abf.filmbluray.id/hp5c0jd
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg" group-title="1.BIOSKOP" , Venom 2
+https://www.dropbox.com/s/mv1cbopr0szux5d/venom%202.mp4?dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/04/film-shazam2019-lk21.jpg" group-title="1.BIOSKOP" , Shazam 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="1.BIOSKOP" , Shazam 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg" group-title="1.BIOSKOP", Guardians 1
+https://bit.ly/4vckF6S
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="1.BIOSKOP", Guardians 2
+https://bit.ly/4cc7qdP
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="1.BIOSKOP", Guardians 3
+https://bit.ly/4dv1lLF
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 1
+https://bit.ly/3PUvVoc
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-revenge-of-the-fallen-2009.jpg", Transformers 2
+https://bit.ly/4sS9nTD
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-dark-of-the-moon-2011.jpg", Transformers 3
+https://bit.ly/3NK1RLt
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-age-of-extinction-2014.jpg", Transformers 4
+https://bit.ly/4vcETxh
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers 5
+https://bit.ly/4sUct9S
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/12/film-bumblebee-2018-lk21.jpg", Transformers 6 Bumblebee
+https://bit.ly/4cqRtS8
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg", Transformers 7
+https://bit.ly/4cqI0Kx
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 1
+https://www.dropbox.com/scl/fi/eo39lgz56m0ryv2bri5w9/Avatar-The-Last-Airbender-E01.mp4?rlkey=agux2jyabwcr91bk8i6il9l9f&st=1c7clnuq&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 2
+https://www.dropbox.com/scl/fi/zylzf3y2xmfxj549b3mn7/Lk21.De-Avatar_-The-Last-Airbender-Season-1-Episode-2-2024-1080p.mp4?rlkey=7dw6zljmyzdauec4fipy6gq61&st=rw3mgd6z&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 3
+https://www.dropbox.com/scl/fi/ltgogovhtckm1b14wr8fe/Avatar-The-Last-Airbender-3.mp4?rlkey=oe8hlozv9qjgvs5vl6rqt50k5&st=6rwgwphj&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 4
+https://www.dropbox.com/scl/fi/u3zdgb1krbe4ljpsicw76/Avatar-The-Last-Airbender-4.mp4?rlkey=7thlpqk5hb8zr6o30awrm84tj&st=h21lc3gw&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 5
+https://www.dropbox.com/scl/fi/btqis5okqezrovyhl5app/Avatar-The-Last-Airbender-5.mp4?rlkey=30t6cthmffh7nb7ijqrvcay0h&st=18zpyrwg&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 6
+https://www.dropbox.com/scl/fi/6bk9006xvlzo8rsmdy6ux/Avatar-The-Last-Airbender-6.mp4?rlkey=pk4pbc0li6fbn7mkf0pz8s9sn&st=y0bf2q0a&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 7
+https://www.dropbox.com/scl/fi/2zu6fy21ti3koaqfdnbxc/Avatar-The-Last-Airbender-7.mp4?rlkey=xutj5qwvibeviyu6dgw7u3fs0&st=e4izsrf1&dl=1
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 8
+https://www.dropbox.com/scl/fi/cncgy5c2zyukrc8hj0nh6/Avatar-The-Last-Airbender-8.mp4?rlkey=hgjrxleylkzcveikhfm5wr6m3&st=2xwbz7uo&dl=1
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/1917.png",1917  SUB INDO
 http://abf.filmbluray.id/gded1dg
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/3001.png",300  SUB INDO
@@ -2014,155 +2163,6 @@ http://abf.filmbluray.id/dqqmub8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/mib4.png", Men in Black International (2019) SUB INDO
 http://abf.filmbluray.id/pz716ps
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1.BIOSKOP"  tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
-http://abf.filmbluray.id/1ku88hr
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/08/film-van-helsing-2004-2-lk21.jpg"group-title="1.BIOSKOP" ,Van Helsing  SUB INDO
-http://abf.filmbluray.id/a0tcldv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="1.BIOSKOP" , Mercy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , Fall Guy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="1.BIOSKOP" , The Legend of Tarzan
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/04/film-mortal-kombat-2021-lk21.jpg" group-title="1.BIOSKOP" , Mortal Kombat
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , Hellboy: The Crooked Man
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg" group-title="1.BIOSKOP" , A Mad Max Saga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="1.BIOSKOP" , Mad Max Fury Road
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-kimi-2022-lk21-d21.jpg" group-title="1.BIOSKOP" ,Kimi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=89f53fae-0da1-4f9c-9365-8135b3680c8c
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=89f53fae-0da1-4f9c-9365-8135b3680c8c&sub=t40
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="1.BIOSKOP" , Pan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-blade-ii-2002.jpg" group-title="1.BIOSKOP" , Blade II
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="1.BIOSKOP" , Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/3WUQz/mqYnUd5s8cjZY1p7g.jpeg" group-title="1.BIOSKOP" , Oblivion
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bcecca31-e728-4439-86db-94a478409d97
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/10/film-venom2018-lk21.jpg" group-title="1.BIOSKOP" , Venom 1
-http://abf.filmbluray.id/hp5c0jd
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg" group-title="1.BIOSKOP" , Venom 2
-https://www.dropbox.com/s/mv1cbopr0szux5d/venom%202.mp4?dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/04/film-shazam2019-lk21.jpg" group-title="1.BIOSKOP" , Shazam 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="1.BIOSKOP" , Shazam 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg" group-title="1.BIOSKOP", Guardians 1
-https://bit.ly/4vckF6S
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="1.BIOSKOP", Guardians 2
-https://bit.ly/4cc7qdP
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="1.BIOSKOP", Guardians 3
-https://bit.ly/4dv1lLF
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 1
-https://bit.ly/3PUvVoc
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-revenge-of-the-fallen-2009.jpg", Transformers 2
-https://bit.ly/4sS9nTD
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-dark-of-the-moon-2011.jpg", Transformers 3
-https://bit.ly/3NK1RLt
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-age-of-extinction-2014.jpg", Transformers 4
-https://bit.ly/4vcETxh
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers 5
-https://bit.ly/4sUct9S
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/12/film-bumblebee-2018-lk21.jpg", Transformers 6 Bumblebee
-https://bit.ly/4cqRtS8
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg", Transformers 7
-https://bit.ly/4cqI0Kx
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 1
-https://www.dropbox.com/scl/fi/eo39lgz56m0ryv2bri5w9/Avatar-The-Last-Airbender-E01.mp4?rlkey=agux2jyabwcr91bk8i6il9l9f&st=1c7clnuq&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 2
-https://www.dropbox.com/scl/fi/zylzf3y2xmfxj549b3mn7/Lk21.De-Avatar_-The-Last-Airbender-Season-1-Episode-2-2024-1080p.mp4?rlkey=7dw6zljmyzdauec4fipy6gq61&st=rw3mgd6z&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 3
-https://www.dropbox.com/scl/fi/ltgogovhtckm1b14wr8fe/Avatar-The-Last-Airbender-3.mp4?rlkey=oe8hlozv9qjgvs5vl6rqt50k5&st=6rwgwphj&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 4
-https://www.dropbox.com/scl/fi/u3zdgb1krbe4ljpsicw76/Avatar-The-Last-Airbender-4.mp4?rlkey=7thlpqk5hb8zr6o30awrm84tj&st=h21lc3gw&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 5
-https://www.dropbox.com/scl/fi/btqis5okqezrovyhl5app/Avatar-The-Last-Airbender-5.mp4?rlkey=30t6cthmffh7nb7ijqrvcay0h&st=18zpyrwg&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 6
-https://www.dropbox.com/scl/fi/6bk9006xvlzo8rsmdy6ux/Avatar-The-Last-Airbender-6.mp4?rlkey=pk4pbc0li6fbn7mkf0pz8s9sn&st=y0bf2q0a&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 7
-https://www.dropbox.com/scl/fi/2zu6fy21ti3koaqfdnbxc/Avatar-The-Last-Airbender-7.mp4?rlkey=xutj5qwvibeviyu6dgw7u3fs0&st=e4izsrf1&dl=1
-
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-avatar-the-last-airbender-2024-lk21-d21.jpg" group-title="1.BIOSKOP", Avatar-The-Last-Airbender 8
-https://www.dropbox.com/scl/fi/cncgy5c2zyukrc8hj0nh6/Avatar-The-Last-Airbender-8.mp4?rlkey=hgjrxleylkzcveikhfm5wr6m3&st=2xwbz7uo&dl=1
 
 =====================================================================
 
