@@ -32,6 +32,9 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f84c6558-15a3-4237-8608-95106d91bb4d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f84c6558-15a3-4237-8608-95106d91bb4d&sub=t43
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51b6mLCvBuL._AC_UF894,1000_QL80_.jpg" group-title="1.BIOSKOP", Garfield
+https://bit.ly/3OaU35k
+
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/aladdin.png",Aladdin (2019) SUB INDO
 http://abf.filmbluray.id/5115kfz
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic The Hedgehog 2 (2022)
