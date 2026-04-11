@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-up-2009.jpg", UP ( Rumah Balon )
+https://bit.ly/4c4MA19
+
 #EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic 2
 http://abf.filmbluray.id/52w61gv
 
