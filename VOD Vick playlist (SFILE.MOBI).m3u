@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic 2
+http://abf.filmbluray.id/52w61gv
+
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/01/film-sonic-the-hedgehog-3-2024-lk21-d21.jpg",Sonic 3
+https://bit.ly/4curIQV
+
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/12/film-moana-2016.jpg",Moana
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51b6mLCvBuL._AC_UF894,1000_QL80_.jpg" group-title="1.BIOSKOP", Garfield
+https://bit.ly/3OaU35k
+
 #EXTINF:-1 tvg-id="" tvg-name=" group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/02/film-the-adventures-of-tintin-2011.jpg", Detektif Tintin Petualang
 https://bit.ly/3O8mTn9
 
@@ -52,8 +64,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/aladdin.png",Aladdin (2019) 
 http://abf.filmbluray.id/5115kfz
-#EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic The Hedgehog 2 (2022)
-https://www.dropbox.com/s/izm7s014hqymakj/sonic%202.mp4?dl=1
+
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/tmnt1.png",Teenage Mutant Ninja Turtles (2014) 
 http://abf.filmbluray.id/nzjnq3b
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/tmnt2.png",Teenage Mutant Ninja Turtles : Out of The Shadows (2016) 
@@ -243,8 +254,7 @@ http://abf.filmbluray.id/znrek2h
 http://abf.filmbluray.id/7xbzfqa
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/robo.png",Robo (2019) 
 http://abf.filmbluray.id/og52vhf
-#EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic the Hedgehog (2020) 
-http://abf.filmbluray.id/52w61gv
+
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/bfg.png",The BFG (2016) 
 http://abf.filmbluray.id/g4aipu0
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/wecanbeheroes.png",We Can Be Heroes (2020) 
@@ -1228,10 +1238,6 @@ http://abf.filmbluray.id/atysoc5
 http://abf.filmbluray.id/994xul5
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/soccerkill.png",Soccer Killer  
 http://abf.filmbluray.id/0mrr5yz
-#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg",Sonic 2
-http://abf.filmbluray.id/52w61gv
-#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/01/film-sonic-the-hedgehog-3-2024-lk21-d21.jpg",Sonic 3
-https://bit.ly/4curIQV
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/spacejam.png",Space Jam  
 http://abf.filmbluray.id/3cx6uf3
 #EXTINF:-1  group-title="1.BIOSKOP"  tvg-logo="http://pictures.my.id/images/spawn.png",Spawn  
