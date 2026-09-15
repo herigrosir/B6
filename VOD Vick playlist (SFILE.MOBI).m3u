@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/09/film-doraemon-nobita-new-castle-undersea-devil-2026-lk21.jpg",doremon (2026)
+bit.ly/3SZX3UP
+
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-toy-story-5-2026-lk21.jpg",toy story 5 (2026)
+https://bit.ly/4j4nQd2
+
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/09/film-moana-2026-2-lk21.jpg",moana Manusia (2026)
+https://bit.ly/4yXS0nh
+
+#EXTINF:-1  group-title="1.BIOSKOP" tvg-logo="https://static-jpg.showcdnx.com/wp-content/uploads/2026/05/film-swapped-2026-lk21.jpg",Swapped (2026)
+https://bit.ly/4dsToWS
+#EXTM3U
+
 #EXTINF:-1  group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/12/film-moana-2016.jpg",Moana 1
 https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
 
@@ -2411,7 +2424,3 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="Lifestyle TV",Fashion TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
-
-
-
-
